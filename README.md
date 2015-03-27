@@ -1,7 +1,7 @@
 RCAP
 =====
 
-RCAP Audio!
+Royal Commission on Aboriginal Peoples (RCAP) Audio!
 
 
 This is my latest release of the [Aboriginal Voices Radio (AVR) MP3 files](http://www.aboriginalvoices.com/rcap/).
