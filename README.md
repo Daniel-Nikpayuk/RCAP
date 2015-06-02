@@ -19,14 +19,14 @@ Aboriginal Voices Radio (3.1GB); the html (for offline reading) from the Canadia
 created by Queen's University.
 
 My only **disclaimer** about this is if you reference or cite any part of the RCAP that you've downloaded from here,
-double check anything you quote against the official copy. To improve its accessibility I normalized some of the digital
+double check anything you quote against the official copy. To improve its accessibility I have normalized some of the digital
 formatting---I am confident I have done so properly but I have not verified it (as it is too much for a single person to do).
 
 With each file I have posted a *sha256sum* which is a digital signature. If you want to be extra sure you've downloaded
 what I've posted (which is to say, nobody's tampered with it), please find an open source tool to calculate the sha256sum
 when you download the file, and then see if it matches the signature here.
 
-In any case, the Audio is split into the five volumes, and is available below:
+In any case, the audio is split into the five volumes, and is available below:
 
 -----------------------
 
@@ -71,7 +71,7 @@ sha256sum: 1099078d292a25c05aa1ff4a76f0bafc9b5635ea2fcc0e87694af87b57a79584
 
 -----------------------
 
-This TOC as well as Pdfs and Html are available here:
+A Table of Contents for the audio as well as the RCAP report pdfs and html are available here:
 
 -----------------------
 
@@ -99,5 +99,5 @@ sha256sum: e5dca8a31fbc9879820c4804c015566927527e7116410f6edc1443aebb437dd4
 
 -----------------------
 
-If you find any issues please let me know. I hope this helps in the decolonization process. Thank you.
+If you find any issues please let me know. I hope this helps in the reconciliation process. Thank you.
 
