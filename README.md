@@ -3,28 +3,28 @@ RCAP
 
 Royal Commission on Aboriginal Peoples (RCAP) Audio!
 
-The RCAP is a 1996 five volume report looking at the history of the of the relationship between Aboriginal peoples and Canada.
+The RCAP is a 1996 five volume report looking at the history of the relationship between Aboriginal peoples and Canada.
 The kind of history which isn't taught in Canadian history books, but should be.
 
 *Aboriginal Voices Radio* had originally recorded audio readings of the entire RCAP report. Their original work was here:
 
 http://www.aboriginalvoices.com/rcap/
 
-unfortunately now the link is broken. An html version is still maintained of course by the federal government:
+Unfortunately now that link is broken. An html version is still maintained of course by the federal government:
 
 http://www.aadnc-aandc.gc.ca/eng/1307458586498/1307458751962
 
-but an html version alone is not necessarily accessible by everyone. As such, I have archived the audio provided by
+but an online html version alone is not necessarily accessible by everyone. As such, I have archived the audio provided by
 Aboriginal Voices Radio (3.1GB); the html (for offline reading) from the Canadian government; as well as a pdf version
-created by the Queen's University.
+created by Queen's University.
 
-My only **disclaimer** about this is if you reference or cite any part of it, double check anything you quote against
-the official copy. To improve accessibility I normalized some of the digital formatting---I am confident I have done so properly
-but I have not verified it (as it is too much for a single person to do).
+My only **disclaimer** about this is if you reference or cite any part of the RCAP that you've downloaded from here,
+double check anything you quote against the official copy. To improve its accessibility I normalized some of the digital
+formatting---I am confident I have done so properly but I have not verified it (as it is too much for a single person to do).
 
-With each file I have posted its "sha256sum" which is a digital signature. If you want to be extra sure you've downloaded
-what I've posted (which is to say, nobody's tampered with it), please find an open source tool to calculate the "sha256sum"
-when you download the file and see if it matches the signature here.
+With each file I have posted a *sha256sum* which is a digital signature. If you want to be extra sure you've downloaded
+what I've posted (which is to say, nobody's tampered with it), please find an open source tool to calculate the sha256sum
+when you download the file, and then see if it matches the signature here.
 
 In any case, the Audio is split into the five volumes, and is available below:
 
