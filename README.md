@@ -3,50 +3,30 @@ RCAP
 
 Royal Commission on Aboriginal Peoples (RCAP) Audio!
 
+The RCAP is a 1996 five volume report looking at the history of the of the relationship between Aboriginal peoples and Canada.
+The kind of history which isn't taught in Canadian history books, but should be.
 
-This is my latest release of the [Aboriginal Voices Radio (AVR) MP3 files](http://www.aboriginalvoices.com/rcap/).
-I'll get straight to the point: AVR allows anyone to download this amazing work, so why use my version?
+*Aboriginal Voices Radio* had originally recorded audio readings of the entire RCAP report. Their original work was here:
 
+http://www.aboriginalvoices.com/rcap/
 
-First of all: The credit really does go to them; the content of the RCAP is a lot of material to record, and they've
-done a great job in doing so. My contribution then was simply to make the material they've provided a little bit more
-user-friendly. That is all.
+unfortunately now the link is broken. An html version is still maintained of course by the federal government:
 
+http://www.aadnc-aandc.gc.ca/eng/1307458586498/1307458751962
 
-As it is likely they were on a limited budget their MP3s came with a few design limitations. First, the combined size of
-all the audio is 4.5GB. It ends up being about 100MB too large to fit onto a single DVD. Not to mention, that from their
-website, you can only download one MP3 at a time. Things such as this hinder the distribution of this content to both
-individuals and communities that have either no internet connection, or poor internet connection. Second, the metadata
-for the MP3s such as "Title", "Author", "Album" is not included, which makes navigating the Volumes, Chapters, Titles
-more difficult than it has to be without a table of contents.
+but an html version alone is not necessarily accessible by everyone. As such, I have archived the audio provided by
+Aboriginal Voices Radio (3.1GB); the html (for offline reading) from the Canadian government; as well as a pdf version
+created by the Queen's University.
 
-I have previously distributed DVDs of the RCAP Audio. Most of those versions are outdated.
-
-This latest version has re-encoded the audio files to be smaller: a combined total of 3.1GB. This fits much better onto
-a single DVD for those who want to burn it. As this latest release is on "The Cloud", it is most accessible to city-dwellers
-with good internet. For those of us privileged enough to have such internet, please share this with smaller communities on your
-travels. Or if you're at an institute such as a college or university, make a copy available at the Native Students' Centre or
-any such similar organization. You may know the RCAP already but many of our young leaders might find it a valuable resource.
-
-As well, I have added in content such as "Title", "Author", "Album". For those who want to listen to the audio on their smartphones
-or mp3 players. You can listen on your way to work. One file a day. There's just a bit under 600 files altogether. No need to rush it,
-but at the same time this material is too important not to learn.
-
-I have also downloaded the Table of Contents (TOC) Html files of the AVR website itself and relinked them so that you can navigate
-the content offline, on your laptop or tablet---if you're on airplane for example. In addition to that I have included the Pdfs
-and the Html text files for the RCAP. My only warning about this is if you reference or cite any part of it, double check anything
-you quote against the official copy. I am confident I have translated formats properly but I have not verified it (as it is too
-much for a single person to do). I have also included the fancy linux scripts I used to do all this conversion work for those
-who want to hold it up to scrutiny. Transparency matters.
-
-Finally, please keep in mind this is a low budget operation and I only have the resources to put this content up in one location.
-I have heard the download might be a little bit slow, but they are also large downloads, so please bear with it! (yes, I spelt it as 'bear').
+My only **disclaimer** about this is if you reference or cite any part of it, double check anything you quote against
+the official copy. To improve accessibility I normalized some of the digital formatting---I am confident I have done so properly
+but I have not verified it (as it is too much for a single person to do).
 
 With each file I have posted its "sha256sum" which is a digital signature. If you want to be extra sure you've downloaded
 what I've posted (which is to say, nobody's tampered with it), please find an open source tool to calculate the "sha256sum"
 when you download the file and see if it matches the signature here.
 
-In any case, the Audio is split into the 5 volumes, and is available below:
+In any case, the Audio is split into the five volumes, and is available below:
 
 -----------------------
 
@@ -119,16 +99,5 @@ sha256sum: e5dca8a31fbc9879820c4804c015566927527e7116410f6edc1443aebb437dd4
 
 -----------------------
 
-Finally, if you'd like to take a look at the Linux bash scripts I used to automate this download and file manipulation process, they are available here:
-
------------------------
-
-chain scripting technology (222K):
-
-https://onedrive.live.com/redir?resid=46D8BFF0C86B7646!118&authkey=!AF\_Sg2V1dxtcS5U&ithint=file%2czip
-
-sha256sum: 340c4e2295af78c37cce8e4cfd5775d6369e7ad2e6fc3befc21b95cb66723c8d
-
------------------------
-
 If you find any issues please let me know. I hope this helps in the decolonization process. Thank you.
+
