@@ -10,24 +10,23 @@ The kind of history which isn't taught in Canadian history books, but should be.
 
 http://www.aboriginalvoices.com/rcap/
 
-Unfortunately now that link is broken. An html version is still maintained of course by the federal government:
-
-http://www.aadnc-aandc.gc.ca/eng/1307458586498/1307458751962
-
-but an online html version alone is not necessarily accessible by everyone. As such, I have archived the audio provided by
-Aboriginal Voices Radio (3.1GB); the html (for offline reading) from the Canadian government; as well as a pdf version
-created by Queen's University.
+Unfortunately now that link is broken. Online [textual versions](http://www.aadnc-aandc.gc.ca/eng/1307458586498/1307458751962)
+are still maintained of course by the federal government, but as text alone may still not be ideal or preferred by some,
+I have for extended accessibility archived the audio provided by Aboriginal Voices Radio (3.1GB); along with the html
+(for offline reading) from the Canadian government; as well as a pdf version created by Queen's University.
 
 My only **disclaimer** about this is if you reference or cite any part of the RCAP that you've downloaded from here,
 double check anything you quote against the official copy. To improve its accessibility I have normalized some of the digital
 formatting---I am confident I have done so properly but I have not verified it (as it is too much for a single person to do).
 
 With each file I have posted a *sha256sum* which is a digital signature. If you want to be extra sure you've downloaded
-what I've posted (which is to say, nobody's tampered with it), please find an open source tool to calculate the sha256sum
-when you download the file, and then see if it matches the signature here.
+what I've posted (which is to say, nobody's tampered with it or the file didn't accidentally become corrupted during download transit),
+please find an open source tool to calculate the sha256sum when you download the file, and then see if it matches the signature here.
 
-In any case, the audio is split into the five volumes, and is available below:
-
+In any case, the audio is split into the five volumes, and is available below. I have heard some communities (especially
+northern communities) can have 500MB daily bandwidth limit. If the linked files exceed your daily bandwidth limit contact
+me on Twitter (@Daniel\_Nikpayuk) and we can make arrangements to further improve accessibility. Otherwise, I hope it is of use:
+ 
 -----------------------
 
 Volume 1.zip (666MB):
