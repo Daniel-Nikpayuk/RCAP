@@ -51,7 +51,7 @@ A Table of Contents for the audio as well as the RCAP report pdfs and html are a
 
 -----------------------
 
-RCAP - Aboriginal Voices Radio (238.1kB) (Table of Contents:
+RCAP - Aboriginal Voices Radio (238.1kB) (Table of Contents):
 
         https://drive.google.com/open?id=13W8eZMsMVOYDsRknZv54QGhx_iJn5t3o
 
